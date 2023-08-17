@@ -1,4 +1,3 @@
----
 ### Marc Laugharn
 #### data compression / machine learning researcher & software engineer
 
